@@ -28,7 +28,7 @@ function Projects() {
               title="PRESTIGIOUS"
               description="An e-commerce platform for selling jewelry and accessories"
               ghLink="https://github.com/amineelbouzydy/E-commerceWebsite"
-              demoLink="https://e-commerce-website-rho-three.vercel.app/"
+              demoLink="https://prestigious-five.vercel.app/"
             />
           </Col>
 
